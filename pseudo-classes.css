@@ -16,3 +16,11 @@
 	margin: 25px;
 	border: 1px solid black;
 }
+
+.n-child section:nth-child(3) {
+	border: 1px solid orange;
+}
+
+.n-child section:nth-child(5) {
+	border: 1px solid orange;
+}
